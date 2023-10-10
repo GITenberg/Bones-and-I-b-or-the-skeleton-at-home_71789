@@ -1,0 +1,52 @@
+_repo: Bones-and-I-b-or-the-skeleton-at-home_71789
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Forestier, A. (Amédée)
+    aliases:
+    - Forestier, Amédée
+    - Forestier, A. (Amedee)
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '34030'
+    url: http://www.gutenberg.org/2009/agents/34030
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Forestier
+    - https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Forestier
+creator:
+  author:
+    agent_name: Whyte-Melville, G. J. (George John)
+    aliases:
+    - Whyte-Melville, George John
+    - Melville, G. J. Whyte
+    birthdate: 1821
+    deathdate: 1878
+    gutenberg_agent_id: '3832'
+    url: http://www.gutenberg.org/2009/agents/3832
+    wikipedia: https://en.wikipedia.org/wiki/George_Whyte-Melville
+description: ''
+gutenberg_issued: '2023-10-03'
+identifiers:
+  gutenberg: '71789'
+language: en
+pgterms:marc904: https://archive.org/details/bonesiorskeleton00whyt/page/n5/mode/2up
+pgterms:marc905: 20220929055006whytemelvi
+pgterms:marc906: '1901'
+pgterms:marc907: GB
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bWard, Lock & Co., $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Paranormal fiction, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Introduction -- "On waste" -- Through the mill -- Gourds -- A vampire
+  -- Gold for silver -- A day that is dead -- The four-leaved shamrock -- Rus in urbe
+  -- Haunted -- Weight carriers -- Shadows -- Guinevere.
+title: 'Bones and I : $b or, the skeleton at home'
+url: http://www.gutenberg.org/ebooks/71789
