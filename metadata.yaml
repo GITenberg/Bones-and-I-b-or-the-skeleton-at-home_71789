@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Forestier
     - https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Forestier
+covers:
+- cover_type: archival
+  image_path: 71789-h/images/cover.jpg
 creator:
   author:
     agent_name: Whyte-Melville, G. J. (George John)
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3832
     wikipedia: https://en.wikipedia.org/wiki/George_Whyte-Melville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71789#Bones-and-I-b-or-the-skeleton-at-home
 gutenberg_issued: '2023-10-03'
 identifiers:
   gutenberg: '71789'
